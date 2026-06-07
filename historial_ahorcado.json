@@ -1,0 +1,26 @@
+[
+    {
+        "jugador": "logan",
+        "resultado": "PERDI\u00d3",
+        "palabra": "oscuridad",
+        "fecha": "27/05/2026 21:09:19"
+    },
+    {
+        "jugador": "Fabian",
+        "resultado": "GAN\u00d3",
+        "palabra": "tinieblas",
+        "fecha": "27/05/2026 21:16:37"
+    },
+    {
+        "jugador": "logan",
+        "resultado": "TIEMPO AGOTADO",
+        "palabra": "maldicion",
+        "fecha": "27/05/2026 21:17:49"
+    },
+    {
+        "jugador": "Jugador1",
+        "resultado": "TIEMPO AGOTADO",
+        "palabra": "tinieblas",
+        "fecha": "28/05/2026 22:43:54"
+    }
+]
